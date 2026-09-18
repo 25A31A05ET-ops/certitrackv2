@@ -1,0 +1,6 @@
+{
+  "name": "CERTITRACK – Student Certificate Management System",
+  "description": "Student Certificate Management System combining certificate details and verified files into one secure system with role-based access, department-level isolation, and Excel reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
